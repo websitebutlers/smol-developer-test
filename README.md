@@ -7,13 +7,13 @@ This is a drag and drop website builder built using React.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/websitebutlers/smol-developer-test.git
 ```
 
 Then, navigate to the project directory and install the dependencies:
 
 ```bash
-cd your-repo-name
+cd smol-developer-test
 npm install
 ```
 
