@@ -1,0 +1,38 @@
+{
+  "name": "drag-and-drop-website-builder",
+  "version": "1.0.0",
+  "description": "A drag and drop website builder using React",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/drag-and-drop-website-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/drag-and-drop-website-builder/issues"
+  },
+  "homepage": "https://github.com/yourusername/drag-and-drop-website-builder#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-dnd": "^14.0.2",
+    "react-dnd-html5-backend": "^14.0.1",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0"
+  },
+  "keywords": [
+    "react",
+    "drag-and-drop",
+    "website-builder"
+  ]
+}

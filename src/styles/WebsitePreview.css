@@ -1,0 +1,33 @@
+.website-preview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.website-preview__title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.website-preview__content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.website-preview__message {
+    color: #f00;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.website-preview__success {
+    color: #0f0;
+}
