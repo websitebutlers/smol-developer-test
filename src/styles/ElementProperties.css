@@ -1,0 +1,30 @@
+.element-properties {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-left: 1px solid #ddd;
+    background-color: #f9f9f9;
+    width: 300px;
+}
+
+.element-properties-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.element-properties-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.element-properties-item label {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.element-properties-item input {
+    width: 60%;
+}
